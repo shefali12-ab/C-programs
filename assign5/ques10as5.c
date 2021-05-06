@@ -1,3 +1,4 @@
+//program to print all the prime factors of given number
 main()
 {
     long n,a=1,b=0,c,i;

@@ -1,3 +1,4 @@
+//program to check whether given number is prime or not
 main()
 {
     int x,i;

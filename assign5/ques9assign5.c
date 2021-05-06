@@ -1,3 +1,4 @@
+//program to print all the prime numbers of given number
 main()
 {
     int a=-1,b=1,i=0,n,c;

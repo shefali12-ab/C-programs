@@ -1,3 +1,4 @@
+//program to print all the prime number between given numbers
 main()
 {
     int x,y,i;

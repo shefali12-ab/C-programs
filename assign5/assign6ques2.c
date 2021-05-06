@@ -1,3 +1,4 @@
+//program to print all prime numbers between 1 to 100
 main()
 {
     int i,x;
