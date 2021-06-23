@@ -1,14 +1,16 @@
+float area(float);
 main()
-{   float k,r;
+{ float r,y;
+ printf("Enter the radius");
+ scanf("%f",&r);
+ y=area(r);
+ printf("area of circle is %f",y);
 
-    printf("Enter the value of radius");
-    scanf("%d",&r);
-    k=area(r);
-    printf("%f",k);
 }
-   area(r)
+
+float area(float r)
 {
-    float pie=3.14,s;
-    s=pie*r*r;
-    return(s);
+    float x;
+    x=22.0/7.0*r*r;
+    return x;
 }
